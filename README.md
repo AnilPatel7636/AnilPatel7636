@@ -4,11 +4,11 @@
 
 
 
--  I’m currently working on **Web-Development**
+-  I’m currently working on **Web Development**
 
--  I’m currently learning **C++ & Javascript**
+-  I’m currently learning **DSA in c++ and backend web-d**
 
--  Ask me about **Python, HTML, CSS3..**
+-  Ask me about **Python, HTML, CSS3, JS, C++**
 
 -  How to reach me <anilpatelap042@gmail.com>
 
