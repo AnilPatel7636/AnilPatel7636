@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Anil Patel</h1>
-<h3 align="center">Make it work, make it right, make it fast</h3>
-
 
 
 -  I’m currently working on upgrading my skills in **DSA**
 
--  I’m currently learning **ML**
+-  I’m also exploring **Machine Learning**
 
--  How to reach me <anilpatelap042@gmail.com>
+-  You can reach out to me on <anilpatelap042@gmail.com>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anilpat51576532" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anilpat51576532" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anil-patel-aa7a81224" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anil-patel-aa7a81224" height="30" width="40" /></a>
 <a href="https://leetcode.com/anilpatel018" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="30" width="40" /></a>
+
+
 
 
 
