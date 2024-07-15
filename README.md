@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Anil Patel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnilPatel7636&label=Profile%20views&color=0e75b6&style=flat" alt="AP" /> </p>
-<img align="right" alt="AP" style="border-radius: 1rem; width: 30vw; height: 90vh;" src="IMG-20240715-WA0011.jpg">
+<img align="right" alt="AP" style="border-radius: 1rem; width: 30vw; height:auto;" src="IMG-20240715-WA0011.jpg">
 
 
 - I’m currently working on upgrading my skills in **DSA**
