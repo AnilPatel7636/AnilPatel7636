@@ -1,12 +1,12 @@
+
 <h1 align="center">Hi 👋, I'm Anil Patel</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnilPatel7636&label=Profile%20views&color=0e75b6&style=flat" alt="AP" /> </p>
+<img align="right" alt="AP" style="border-radius: 1rem; width: 30vw; height: 90vh;" src="IMG-20240715-WA0011.jpg">
+
 
 - I’m currently working on upgrading my skills in **DSA**
 - I’m also exploring **Machine Learning**
 - You can reach out to me on <anilpatelap042@gmail.com>
-
-<p align="right">
-  <img src="IMG-20240715-WA0011.jpg" alt="A" width="300" />
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,12 +50,14 @@
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mongodb.svg" alt="MongoDB" height="40" width="40" />
   </a>
+
 </p>
 
-<p align="center">
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilPatel7636&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AnilPatel7636&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </p>
